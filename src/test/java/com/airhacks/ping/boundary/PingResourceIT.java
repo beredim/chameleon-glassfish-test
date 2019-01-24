@@ -1,12 +1,3 @@
-/*
- * Copyright (C) Laboratory of Laboratory of Computing,
- * Medical Informatics and Biomedical-Imaging Technologies
- * Aristotle University of Thessaloniki
- * All Rights Reserved
- * Unauthorized copying of this file, via any medium is strictly prohibited
- * Proprietary and confidential
- * Written by Nikolaos Beredimas <beredim@auth.gr>, 2014 - 2019
- */
 package com.airhacks.ping.boundary;
 
 import javax.inject.Inject;
